@@ -1,6 +1,6 @@
 ## Usage
 
-`wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/uxh/shadowsocks_bash/master/shadowsocks-libev.sh && bash shadowsocks-libev.sh`
+`wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/starqingzhu/shadowsocks_bash/master/shadowsocks-libev.sh && bash shadowsocks-libev.sh`
 
 ## 使用方法
 
